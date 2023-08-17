@@ -20,7 +20,7 @@ Control-c
 >Tips:
 > 1) You can find container IP with: 
 > ```bash
-> docker inspect <container>
+> docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' <container_name>
 >```
 > 2) Maybe you'll need to install rlwrap and socat:
 > ```python
