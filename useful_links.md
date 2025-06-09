@@ -16,6 +16,9 @@
 
 ### Smth interesting
 [CodeCrafters - build your own Git, Docker, SQLite, Redis, etc](https://codecrafters.io/ "перейти по ссылке")
+[Exercism - сode practice and mentorship](https://exercism.org/ "перейти по ссылке")
+[LeetCode - online platform for coding interview preparation](https://leetcode.com/ "перейти по ссылке")
+[CodeWars - solving programming tasks of many types and difficulty levels / for coding interview preparation](https://www.codewars.com/ "перейти по ссылке")
 
 ### Other
 [JWT debugger](https://jwt.io/ "перейти по ссылке")
