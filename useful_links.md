@@ -2,6 +2,7 @@
 [Сети для самых маленьких](https://linkmeup.ru/blog/1188/ "перейти по ссылке")
 
 ### Python
+[Roadmap - step by step guide to becoming a python developer](https://roadmap.sh/python "перейти по ссылке") <br>
 [Лекции по Python от Тимофея Хирьянова](https://www.youtube.com/watch?v=fgf57Sa5A-A&list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY "перейти по ссылке")
 
 ### GIT
