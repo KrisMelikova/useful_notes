@@ -18,9 +18,9 @@
 [CodeCrafters - build your own Git, Docker, SQLite, Redis, etc](https://codecrafters.io/ "перейти по ссылке") <br>
 [Exercism - сode practice and mentorship](https://exercism.org/ "перейти по ссылке") <br>
 [LeetCode - online platform for coding interview preparation](https://leetcode.com/ "перейти по ссылке") <br>
-[CodeWars - solving programming tasks of many types and difficulty levels / for coding interview preparation](https://www.codewars.com/ "перейти по ссылке")
+[Codewars - solving programming tasks of many types and difficulty levels / for coding interview preparation](https://www.codewars.com/ "перейти по ссылке")
 
 ### Other
 [JWT debugger](https://jwt.io/ "перейти по ссылке") <br>
 [JSON formatter](https://jsonformatter.org/ "перейти по ссылке") <br>
-[Diffcheker](https://www.diffchecker.com/ "перейти по ссылке") <br>
+[Diffchecker](https://www.diffchecker.com/ "перейти по ссылке") <br>
