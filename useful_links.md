@@ -6,9 +6,18 @@
 
 ### GIT
 [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/ru/v2 "перейти по ссылке")
+[LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU "перейти по ссылке")
+
+### SQL
+[SQL Police Department](https://sqlpd.com/ "перейти по ссылке")
 
 ### Подготовка к собеседованию (Python)
 [Материал для подготовки к интервью от yakimka](https://github.com/yakimka/python_interview_questions "перейти по ссылке")
 
 ### Smth interesting
 [CodeCrafters - build your own Git, Docker, SQLite, Redis, etc](https://codecrafters.io/ "перейти по ссылке")
+
+### Other
+[JWT debugger](https://jwt.io/ "перейти по ссылке")
+[JSON formatter](https://jsonformatter.org/ "перейти по ссылке")
+[Diffcheker](https://www.diffchecker.com/ "перейти по ссылке")
