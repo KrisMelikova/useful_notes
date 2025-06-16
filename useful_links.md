@@ -14,6 +14,7 @@
 
 ### Подготовка к собеседованию (Python)
 [Материал для подготовки к интервью от yakimka](https://github.com/yakimka/python_interview_questions "перейти по ссылке")
+[Вопросы из собеседования на junior python developer](https://github.com/markdrrr/interview_questions_python_junior "перейти по ссылке")
 
 ### Smth interesting
 [CodeCrafters - build your own Git, Docker, SQLite, Redis, etc](https://codecrafters.io/ "перейти по ссылке") <br>
